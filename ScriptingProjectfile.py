@@ -5,9 +5,6 @@ Created on Tue Jan 23 15:30:13 2024
 @author: emeka
 """
 
-#Student Name: David Chukwuemeka Enwesi
-#Student Number: A00284023
-
 from abc import ABC, abstractmethod
 import time
 from datetime import datetime
